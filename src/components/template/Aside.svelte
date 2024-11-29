@@ -16,15 +16,15 @@
     <MenuItem text="Séries" href="/" />
   </Menu>
   <Menu title="Principais autores">
-    <MenuItem text="J.K. Rowling" href="/" />
-    <MenuItem text="J.R.R. Tolkien" href="/" />
-    <MenuItem text="George R.R. Martin" href="/autores/george-martin" />
+    <MenuItem text="J.K. Rowling" href="/autores/j-k-rowling" />
+    <MenuItem text="J.R.R. Tolkien" href="/autores/j-r-r-tolkien" />
+    <MenuItem text="George R.R. Martin" href="/autores/george-r-r-martin" />
   </Menu>
   <Menu title="Outras categorias">
-    <MenuItem text="Últimas Notícias" href="/autores/george-martin" />
-    <MenuItem text="Séries Populares" href="/autores/george-martin" />
-    <MenuItem text="Facebook" href="/autores/george-martin" />
-    <MenuItem text="Instagram" href="/autores/george-martin" />
-    <MenuItem text="Youtube" href="/autores/george-martin" />
+    <MenuItem text="Últimas Notícias" href="/" />
+    <MenuItem text="Séries Populares" href="/" />
+    <MenuItem text="Facebook" href="/" />
+    <MenuItem text="Instagram" href="/" />
+    <MenuItem text="Youtube" href="/" />
   </Menu>
 </aside>

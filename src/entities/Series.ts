@@ -1,7 +1,7 @@
 import type { Author } from "./Authors";
 import type { Book } from "./Book";
 
-export type Series = {
+export type Serie = {
   id: string;
   title: string;
   description: string;

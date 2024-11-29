@@ -11,6 +11,7 @@
     "
     {href}
   >
+    <slot />
     <span>{text}</span>
   </a>
 </li>

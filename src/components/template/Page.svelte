@@ -1,9 +1,9 @@
 <script>
-  import Logo from "./Logo.svelte";
+  import Header from "./Header.svelte";
 </script>
 
 <div class="flex flex-col min-h-screen bg-black text-white">
-  <Logo />
+  <Header />
   <main>
     <slot />
   </main>
